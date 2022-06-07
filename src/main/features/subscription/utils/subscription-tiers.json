@@ -1,0 +1,23 @@
+[
+    {
+        "minRange": 1,
+        "price": 299
+    },
+    {
+        "minRange": 3,
+        "price": 239
+    },
+    {
+        "minRange": 11,
+        "price": 219
+    },
+    {
+        "minRange": 26,
+        "price": 199
+    },
+    {
+        "minRange": 51,
+        "price": 149
+    }
+
+]
